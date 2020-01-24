@@ -14,4 +14,4 @@ Followinig project aims to develop a model to predict the total dollar amount th
 - Net Worth 
 
 The model should predict: 
-- Car Purchase Amount 
+- Car Purchase Amount. 
